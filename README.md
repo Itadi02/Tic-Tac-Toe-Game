@@ -54,7 +54,7 @@ Copy code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/itadi02/tic-tac-toe.git
 Open the project folder:
 
 bash
